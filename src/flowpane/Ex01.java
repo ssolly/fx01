@@ -26,6 +26,8 @@ public class Ex01 extends Application {
 		}
 		Scene sc = new Scene(flowPane,200,100);
 		
+		arg0.setScene(sc);
+		arg0.show();
 	}
 
 	public static void main(String[] args) {
