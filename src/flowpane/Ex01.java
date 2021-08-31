@@ -46,7 +46,4 @@ public class Ex01 extends Application {
 		launch(args);
 		
 	}
-
-
-	
 }
